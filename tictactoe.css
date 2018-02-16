@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: arial;
+}
+
+table {
+  top: 50px;
+  position: relative;
+  margin: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+td {
+  width: 150px;
+  height: 150px;
+  font-size: 130px;
+  font-weight: bolder;
+  text-align: center;
+  border: 10px solid black;
+}
+
+.top {
+  border-top: 0;
+}
+
+.bottom {
+  border-bottom: 0;
+}
+
+.left {
+  border-left: 0;
+}
+
+.right {
+  border-right: 0;
+}
